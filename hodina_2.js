@@ -1,1 +1,1 @@
-k,ch lwhvl
+Console.WriteLine("Hello world");
